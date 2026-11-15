@@ -1,0 +1,17 @@
+{
+ "format": 1,
+ "store": {
+  "id": "memento-addons",
+  "name": {
+   "it": "Memento Addons Store",
+   "en": "Memento Addons Store"
+  },
+  "description": {
+   "it": "Gli addon ufficiali di Memento.",
+   "en": "The official add-ons of Memento."
+  }
+ },
+ "generated": "2026-11-15T14:53:33Z",
+ "developers": [],
+ "addons": []
+}
