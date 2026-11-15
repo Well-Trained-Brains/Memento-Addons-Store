@@ -11,9 +11,38 @@
    "en": "The official add-ons of Memento."
   }
  },
- "generated": "2026-11-15T14:53:58Z",
+ "generated": "2026-11-15T20:02:03Z",
  "developers": [],
  "addons": [
+  {
+   "id": "analog-clock",
+   "version": "0.1.0",
+   "memento": ">=0.3.1",
+   "short_name": {
+    "it": "Orologio",
+    "en": "Clock"
+   },
+   "name": {
+    "it": "Orologio analogico",
+    "en": "Analog clock"
+   },
+   "description": {
+    "it": "Una Live con un orologio analogico che segna l'ora corrente.",
+    "en": "A Live with an analog clock showing the current time."
+   },
+   "vendor": "WTB",
+   "author": "Pasquale Croce",
+   "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"8.6\"/><path d=\"M12 6.8V12l3.6 2.3\"/></svg>\n",
+   "filetypes": [],
+   "components": [
+    "interface"
+   ],
+   "key_id": "87BF776710A9A957",
+   "published": "2026-11-15T20:02:02Z",
+   "package": "https://github.com/Well-Trained-Brains/Memento-Addons-Store/releases/download/analog-clock-0.1.0/analog-clock-0.1.0.memento-addon",
+   "size": 3009,
+   "sha256": "438144f77a1d8e3c4ee58d08234938ed3a818e07448cb007fed2c774e5271fe3"
+  },
   {
    "id": "ctrl-interface",
    "version": "0.4.0",
