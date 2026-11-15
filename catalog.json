@@ -11,7 +11,48 @@
    "en": "The official add-ons of Memento."
   }
  },
- "generated": "2026-11-15T14:53:33Z",
+ "generated": "2026-11-15T14:53:58Z",
  "developers": [],
- "addons": []
+ "addons": [
+  {
+   "id": "ctrl-interface",
+   "version": "0.4.0",
+   "memento": ">=0.3.1",
+   "short_name": {
+    "it": "Ctrl Interface",
+    "en": "Ctrl Interface"
+   },
+   "name": {
+    "it": "Ctrl Interface, interfacce di controllo",
+    "en": "Ctrl Interface, control interfaces"
+   },
+   "description": {
+    "it": "Interfacce per controllare macchinari come le matrici video, su una griglia di moduli.",
+    "en": "Interfaces to control machines such as video matrices, on a grid of modules."
+   },
+   "vendor": "WTB",
+   "author": "Pasquale Croce",
+   "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M8 3.5v17M16 3.5v17\"/><rect x=\"5\" y=\"12\" width=\"6\" height=\"3.6\" rx=\"1\" fill=\"#fff\"/><rect x=\"13\" y=\"6\" width=\"6\" height=\"3.6\" rx=\"1\" fill=\"#fff\"/></svg>\n",
+   "filetypes": [
+    {
+     "ext": ".ctrlui",
+     "name": {
+      "it": "Interfaccia di controllo",
+      "en": "Control interface"
+     }
+    }
+   ],
+   "components": [
+    "interface",
+    "rules",
+    "sketch_libraries",
+    "skills"
+   ],
+   "key_id": "87BF776710A9A957",
+   "published": "2026-11-15T14:53:58Z",
+   "package": "https://github.com/Well-Trained-Brains/Memento-Addons-Store/releases/download/ctrl-interface-0.4.0/ctrl-interface-0.4.0.memento-addon",
+   "size": 195158,
+   "sha256": "c9425f9f7d7ec5ee458381b3b5abdc7bdee6a552bc8f5ed6b259fb71394ad407"
+  }
+ ]
 }
