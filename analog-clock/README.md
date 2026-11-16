@@ -1,8 +1,8 @@
 # Analog clock
 
-A Live with an analog clock showing the current time.
+An analog clock showing the current time.
 
-- Version: 0.1.1
+- Version: 0.1.2
 - Needs Memento 0.3.1 or later
 - By: WTB · Pasquale Croce
 
@@ -10,7 +10,7 @@ A Live with an analog clock showing the current time.
 
 **Orologio analogico**
 
-Una Live con un orologio analogico che segna l'ora corrente.
+Un orologio analogico che segna l'ora corrente.
 
-- Versione: 0.1.1
+- Versione: 0.1.2
 - Richiede Memento 0.3.1 o successivo
